@@ -1,0 +1,17 @@
+Flask
+Flask-Migrate
+Flask-RESTful
+Flask-SQLAlchemy
+SQLAlchemy
+flask-serialize
+passlib
+flask_jwt_extended
+sqlalchemy-serializer
+flask-cors
+pandas
+flask-bcrypt
+PyJWT
+Flask-Mail
+passlib
+pandas
+wheel
